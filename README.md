@@ -1,5 +1,4 @@
 <h1>Layout practice</h1>
-  <img src="">
 
 <h2>Project Deploy</h2>
  <a href="" target="_blank">Click here</a>
